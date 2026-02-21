@@ -13,3 +13,5 @@ wheels/
 # API keys
 gemini.api.env
 .env
+
+to_consider.py

@@ -1,4 +1,4 @@
-from functions.get_file_contents import get_file_contents
+from functions.get_file_content import get_file_contents
 from config import MAX_CHARACTER_LIMIT
 
 def test():
